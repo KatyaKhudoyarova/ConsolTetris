@@ -1,0 +1,8 @@
+﻿  Tetris_2.cpp
+C:\unik\C++PRO\Tetris_2\Tetris_2.cpp(11,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\unik\C++PRO\Tetris_2\Tetris_2.cpp(11,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\unik\C++PRO\Tetris_2\Tetris_2.cpp(15,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\unik\C++PRO\Tetris_2\Tetris_2.cpp(44,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\unik\C++PRO\Tetris_2\Tetris_2.cpp(236,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\unik\C++PRO\Tetris_2\Tetris_2.cpp(264,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Tetris_2.vcxproj -> C:\unik\C++PRO\Tetris_2\x64\Debug\Tetris_2.exe
