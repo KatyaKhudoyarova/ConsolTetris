@@ -2,9 +2,9 @@
 #include <Windows.h>
 #include <conio.h>
 #include <vector>
-#include <thread> // для использования std::this_thread::sleep_for
-#include <chrono>
-//рефакторинг сделать 
+
+
+
 using namespace std;
 
 void gotoxy(int x,int y) {
@@ -471,7 +471,7 @@ return 0;
 
 //так себе главная функция
 int main()
-{
+{//стандратное скрытие курсора в консоли(только для висуал студио)
     void* handle = GetStdHandle(STD_OUTPUT_HANDLE);
     CONSOLE_CURSOR_INFO structCursorInfo;
     GetConsoleCursorInfo(handle, &structCursorInfo);
